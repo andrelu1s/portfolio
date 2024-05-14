@@ -2,15 +2,15 @@
 
 <a align="center"> Desenvolvimento de um portfolio para tornar público meus links e meus estudos.</a>
 
-<h1 align="center"> 
+<h2 align="center"> 
   <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="memo-licença">Licença</a>
-</h1>
+</h2>
 
 <p align="center"> 
-  <img alt="" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks para Portfólio" src=".github/preview.jpg" width="100%">
 </p>
 
 ## Tecnologias
